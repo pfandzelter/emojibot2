@@ -1,6 +1,8 @@
 # emojibot2
 A bot for inserting relevant emoji into copypasta or other text
 
+## [Live Demo](https://oldpepper12.github.io/emojibot2/)
+
 # Getting started
 
 Dependencies: `praw`, `requests`
