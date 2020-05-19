@@ -12,6 +12,6 @@ Skip to step 3 if you want to use the prebuilt emoji database (`edb.prebuilt.jso
 3. Modify `bot.template.py` to include your API key and run
 
 
-* the algorithm I wrote for this is very unoptimized, it took around 20 minutes to process all 3000+ posts from r/emojipasta
+*the algorithm I wrote for this is very unoptimized, it took around 20 minutes to process all 3000+ posts from r/emojipasta
 
 ** i used the pushshift api for this it might not be *every single post* but yknow
