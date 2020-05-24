@@ -1,4 +1,5 @@
 from db import Database
 
-db = Database("emojipasta")
+db = Database("kopiernudeln")
+db.init_header()
 db.resume_search()
